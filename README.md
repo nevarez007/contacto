@@ -11,6 +11,7 @@
       <a href="https://nevarez007.github.io/Danza/index.html">Inicio</a>
       <a href="https://nevarez007.github.io/clase/">Clases</a>
       <a href="https://nevarez007.github.io/contacto/">Contacto</a>
+      <a href="https://nevarez007.github.io/Informaci-n/">Estilos</a>
     </nav>
   </header>
 
