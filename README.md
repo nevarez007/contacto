@@ -25,6 +25,10 @@
           <option>Ballet</option>
           <option>Jazz</option>
           <option>Hip-hop</option>
+          <option>Flamenco</option>
+          <option>Salsa</option>
+          <option>Tango</option>
+          
         </select>
       </label><br>
       <input type="submit" value="Enviar">
